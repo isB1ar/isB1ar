@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kyrie</h1>
 <h3 align="center">A passionate frontend developer from Universe</h3>
-<p align="center">
-    Visitor count<br>
-    <img src="https://profile-counter.glitch.me/Hiroenzo/count.svg" />
-</p>
 <div align="center">
 	<img src="https://raw.githubusercontent.com/Hiroenzo/Hiroenzo/main/pacman.svg?sanitize=true" width="200" height="200">
 </div>
